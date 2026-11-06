@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-P18",
+  "repository": "icb-p18-preparing-quality-review-vrite-self-assessment",
+  "repository_url": "https://github.com/ICoBC/icb-p18-preparing-quality-review-vrite-self-assessment",
+  "title": "Preparing for Quality Review: the VRITE Self-Assessment",
+  "subtitle": "The Maturity Check, evidence and improvement plan before applying for the Global Quality Seal.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Quality assurance and accreditation",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-QUAL-L3-A",
+  "badge_name": "Preparing for Quality Review: the VRITE Self-Assessment (Ability, L3)",
+  "hours": "10",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p18/",
+  "parts": [
+    "About this course",
+    "The review process",
+    "Evidence by pillar",
+    "Gap analysis",
+    "Improvement plan",
+    "Preparing for the review interview",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 19
+}
